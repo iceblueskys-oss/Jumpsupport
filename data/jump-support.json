@@ -5,7 +5,7 @@
       "code": "1029",
       "server": "Azure",
       "category": "CMMS",
-      "name": "유니언스1",
+      "name": "유니언스",
       "manager": "양정헌팀장",
       "phone": "010-2609-7758",
       "email": "yangjh1203@unience.co.kr"
@@ -5717,5 +5717,5 @@
       "email": "—"
     }
   ],
-  "updatedAt": "2026-09-11T01:57:42.475Z"
+  "updatedAt": "2026-09-11T01:57:54.368Z"
 }
