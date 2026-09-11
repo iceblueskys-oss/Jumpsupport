@@ -1,1 +1,5721 @@
-{"items":[],"ledger":[]}
+{
+  "items": [],
+  "ledger": [
+    {
+      "code": "1029",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "유니언스",
+      "manager": "양정헌팀장",
+      "phone": "010-2609-7758",
+      "email": "yangjh1203@unience.co.kr"
+    },
+    {
+      "code": "1045",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "린텍코리아",
+      "manager": "김정인기감",
+      "phone": "010-7279-0406",
+      "email": "ji-kim@lintec.co.kr"
+    },
+    {
+      "code": "1060",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "위지트",
+      "manager": "오대석과장",
+      "phone": "010-2541-3954",
+      "email": "dsoh@wizit.co.kr"
+    },
+    {
+      "code": "1065",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "린텍코리아(제조)",
+      "manager": "이재용과장",
+      "phone": "010-2885-8261",
+      "email": "Jaeyong-lee@lintec.co.kr"
+    },
+    {
+      "code": "1068",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "포항가속기연구소",
+      "manager": "최영호기술원",
+      "phone": "010-5067-8875",
+      "email": "choiyh@postech.ac.kr"
+    },
+    {
+      "code": "1074",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "우진일렉트로나이트",
+      "manager": "박주홍팀장",
+      "phone": "010-4312-7518",
+      "email": "juhong.park@heraeus.com"
+    },
+    {
+      "code": "1086",
+      "server": "Azure",
+      "category": "병원",
+      "name": "검단탑병원",
+      "manager": "엄창현팀장",
+      "phone": "010-9167-6724",
+      "email": "uch6724@daum.net"
+    },
+    {
+      "code": "1089",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "ABB KOREA",
+      "manager": "이철민부장",
+      "phone": "010-2603-1989",
+      "email": "chulmin.lee@goldbfms.com"
+    },
+    {
+      "code": "1099",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "모간세라믹공장",
+      "manager": "구자정매니저",
+      "phone": "010-6355-4658",
+      "email": "jajung.ku@morganplc.com"
+    },
+    {
+      "code": "1100",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "대교D&S",
+      "manager": "공용호과장",
+      "phone": "010-8345-9000",
+      "email": "yongho_kong@daekyo.co.kr"
+    },
+    {
+      "code": "1102",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주도시공사 문화예술회관(예술문화회관)",
+      "manager": "정다은주임",
+      "phone": "010-5308-4516",
+      "email": "jj88@yjfmc.or.kr"
+    },
+    {
+      "code": "1103",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연수공원관리팀",
+      "manager": "김동신대리",
+      "phone": "010-2545-0589",
+      "email": "eastnew@ysfsmc.or.kr"
+    },
+    {
+      "code": "1108",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "KPX빌딩",
+      "manager": "황남석차장",
+      "phone": "010-8249-5909",
+      "email": "namseok@kpxholdings.com"
+    },
+    {
+      "code": "1111",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주도시공사 스포츠센터팀(에코실외구장)",
+      "manager": "정다은주임",
+      "phone": "010-5308-4516",
+      "email": "—"
+    },
+    {
+      "code": "1112",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주도시공사 환경관리팀(재활용선별장)",
+      "manager": "정다은주임",
+      "phone": "010-5308-4516",
+      "email": "—"
+    },
+    {
+      "code": "1113",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주도시공사 체육시설팀(고덕생활체육공원)",
+      "manager": "정다은주임",
+      "phone": "010-5308-4516",
+      "email": "—"
+    },
+    {
+      "code": "1115",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천 문화관광팀",
+      "manager": "오달현주임",
+      "phone": "010-9919-8334",
+      "email": "insomnia4@naver.com"
+    },
+    {
+      "code": "1116",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천 체육시설팀",
+      "manager": "정다은주임",
+      "phone": "010-5308-4516",
+      "email": "jj88@yjfmc.or.kr"
+    },
+    {
+      "code": "1117",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천 공공시설팀",
+      "manager": "정다은주임",
+      "phone": "010-5308-4516",
+      "email": "jj88@yjfmc.or.kr"
+    },
+    {
+      "code": "1119",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포시민회관",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "ysm5914@gp.or.kr"
+    },
+    {
+      "code": "1120",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "부천대학교",
+      "manager": "소윤상주무관",
+      "phone": "010-4442-4427",
+      "email": "soyoonsang@bc.ac.kr"
+    },
+    {
+      "code": "1121",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "인천중구 공공시설팀",
+      "manager": "김흥덕",
+      "phone": "010-9234-0474",
+      "email": "bang87@icjgss.or.kr"
+    },
+    {
+      "code": "1122",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "인천중구 교통사업팀(구 청소년수련관)",
+      "manager": "김흥덕",
+      "phone": "010-9234-0474",
+      "email": "—"
+    },
+    {
+      "code": "1123",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "인천중구 체육사업팀",
+      "manager": "김흥덕",
+      "phone": "010-9234-0474",
+      "email": "—"
+    },
+    {
+      "code": "1124",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "인천중구 주차사업팀",
+      "manager": "최종찬",
+      "phone": "032-850-1474",
+      "email": "—"
+    },
+    {
+      "code": "1126",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서울중구시설관리공단",
+      "manager": "이윤석주임",
+      "phone": "010-5100-3956",
+      "email": "lys0418@e-junggu.or.kr"
+    },
+    {
+      "code": "1127",
+      "server": "NCP",
+      "category": "CMMS",
+      "name": "충주클린에너지파크",
+      "manager": "이준희",
+      "phone": "010-9901-5968",
+      "email": "surge865@cjfmc.or.kr"
+    },
+    {
+      "code": "1137",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포지하차도(교통지원팀)",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1139",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포주차사업팀",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1141",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한창산업(주)",
+      "manager": "민생기차장",
+      "phone": "010-4226-7734",
+      "email": "skmin@hanchem.com"
+    },
+    {
+      "code": "1157",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "메디포스트",
+      "manager": "이병택팀장",
+      "phone": "010-3760-8014",
+      "email": "btlee@medipost.co.kr\r\nyong02.kim@samsung.com"
+    },
+    {
+      "code": "1159",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "경주국민체육센터",
+      "manager": "배성암",
+      "phone": "010-7689-5003",
+      "email": "bae1128@gjfmc.or.kr"
+    },
+    {
+      "code": "1168",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 풍무국민체육센터",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1169",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 김포생활체육관",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1170",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 통진문화회관",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1171",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 자원화센터 자원시설",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1172",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 자원화센터 자원관리",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1173",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 자원화센터 편익시설",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1174",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 공원관리팀 재활용수집소",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1175",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 무지개뜨는언덕",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1177",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 공원관리팀 태산패밀리파크",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1178",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 공원관리팀 함상공원",
+      "manager": "문용식차장",
+      "phone": "010-4574-5914",
+      "email": "—"
+    },
+    {
+      "code": "1184",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "계양구청",
+      "manager": "김아름주임",
+      "phone": "032-430-7708\r\n010-4655-3483",
+      "email": "aleumkim@gysiseol.or.kr"
+    },
+    {
+      "code": "1185",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "계양문화회관",
+      "manager": "장성식대리",
+      "phone": "032-719-4477\r\n010-4519-7253",
+      "email": "darime1223@naver.com"
+    },
+    {
+      "code": "1187",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포국민체육센터",
+      "manager": "조호재 대리",
+      "phone": "031-390-7705",
+      "email": "—"
+    },
+    {
+      "code": "1188",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "광명도시공사 생활복지팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1190",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "이천마이다스골프장",
+      "manager": "공용호과장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1191",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "구미마이다스골프장",
+      "manager": "공용호과장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1192",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "청평마이다스골프장",
+      "manager": "공용호과장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1194",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연수문화사업팀",
+      "manager": "문은총",
+      "phone": "010-6797-3700\r\n032-830-8031",
+      "email": "silvergun@ysfsmc.or.kr"
+    },
+    {
+      "code": "1196",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주완산수영장",
+      "manager": "김보영",
+      "phone": "063-239-2662",
+      "email": "by23@jjss.or.kr"
+    },
+    {
+      "code": "1204",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "마이다스 호텔&리조트",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1206",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주도시공사 생활체육팀(양주국민체육센터)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1212",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "NC소프트판교",
+      "manager": "김건욱과장",
+      "phone": "02-6201-8443",
+      "email": "kimgunwook@ncsoft.com"
+    },
+    {
+      "code": "1213",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "NC소프트서울",
+      "manager": "이성준",
+      "phone": "010-4131-7100",
+      "email": "lsj1023@ncsoft.com"
+    },
+    {
+      "code": "1214",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "광명도시공사 동굴사업부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1215",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한성피앤아이",
+      "manager": "최동훈",
+      "phone": "010-9525-3348",
+      "email": "cdh0318@hsprint.com"
+    },
+    {
+      "code": "1224",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "광명도시공사 체육사업1팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1225",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "광명도시공사 주차관리팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1230",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주화산체육관",
+      "manager": "5월5일부터세금계산서발행예정",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1231",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주빙상경기장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1232",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주어울림체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1233",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주월드컵경기장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1234",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주덕진수영장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1235",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주덕진실내배드민턴장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1236",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주승마장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1237",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주완산체련공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1238",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주한옥마을2주차장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1240",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주하늘나라",
+      "manager": "황민철",
+      "phone": "043-870-7866",
+      "email": "manchol001@cjfmc.or.kr"
+    },
+    {
+      "code": "1241",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주계명산자연휴양림",
+      "manager": "권태성",
+      "phone": "043-870-7931",
+      "email": "sung@cjfmc.or.kr"
+    },
+    {
+      "code": "1242",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주국민체육센터",
+      "manager": "전재영",
+      "phone": "043-870-7835",
+      "email": "jjy1219@cjfmc.or.kr"
+    },
+    {
+      "code": "1243",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주문성자연휴양림",
+      "manager": "강영구",
+      "phone": "043-870-7912",
+      "email": "ygkang@cjfmc.or.kr"
+    },
+    {
+      "code": "1244",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주봉황자연휴양림",
+      "manager": "홍석현",
+      "phone": "043-870-7921",
+      "email": "blue43e@cjfmc.or.kr"
+    },
+    {
+      "code": "1245",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주장애인형국민체육센터",
+      "manager": "이상천",
+      "phone": "043-870-7857",
+      "email": "atkdcjs@cjfmc.or.kr"
+    },
+    {
+      "code": "1246",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주주차장",
+      "manager": "이상협",
+      "phone": "043-870-7814",
+      "email": "lsh@cjfmc.or.kr"
+    },
+    {
+      "code": "1247",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주청사",
+      "manager": "김윤섭",
+      "phone": "043-870-7896",
+      "email": "dbstjq1991@cjfmc.or.kr"
+    },
+    {
+      "code": "1248",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주환경체육센터",
+      "manager": "이상천",
+      "phone": "043-870-7857",
+      "email": "atkdcjs@cjfmc.or.kr"
+    },
+    {
+      "code": "1266",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "신앙촌에프앤디㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1276",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "경기도경제과학진흥원 바이오센터(스타트업 캠퍼스)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1277",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "경기도경제과학진흥원 GBSA(경기창조경제혁신센터)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1278",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "경기도경제과학진흥원 R&DB(글로벌 R&D센터)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1281",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "에이블현대 호텔앤리조트(반얀트리)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1293",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "사랑의 교회",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1294",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "속초시시설관리공단 종합운동장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1298",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안성시시설관리공단 국민체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1301",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시설공단",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1302",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "경기도청소년수련원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1304",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "HF미래인재원",
+      "manager": "김찬",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1306",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주시시설관리공단 체육사업부 직속",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1307",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 자원순환부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1312",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "영천시시설관리공단 운주산자연휴양림",
+      "manager": "손동율 대리",
+      "phone": "010-5805-1413",
+      "email": "sdy200608@yc.or.kr"
+    },
+    {
+      "code": "1320",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "계양구시설관리공단 청소년수련관",
+      "manager": "김아름주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1321",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "계양구시설관리공단 사회복지회관",
+      "manager": "김아름주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1323",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연수구시설관리공단 송도체육센터",
+      "manager": "김은별 주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1326",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 은하수공원",
+      "manager": "김종석 대리",
+      "phone": "044-850-1352",
+      "email": "—"
+    },
+    {
+      "code": "1327",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 공설봉안당",
+      "manager": "배동규 주임",
+      "phone": "044-850-1346",
+      "email": "—"
+    },
+    {
+      "code": "1328",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 공동구",
+      "manager": "차동호 대리",
+      "phone": "044-850-1233",
+      "email": "—"
+    },
+    {
+      "code": "1329",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 산학연클러스터",
+      "manager": "김성호 대리",
+      "phone": "044-850-1372",
+      "email": "—"
+    },
+    {
+      "code": "1330",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 지방자치회관",
+      "manager": "박인정 주임",
+      "phone": "044-850-1375",
+      "email": "—"
+    },
+    {
+      "code": "1331",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 행복아파트",
+      "manager": "이현섭 차장",
+      "phone": "044-850-1243",
+      "email": "—"
+    },
+    {
+      "code": "1333",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 신흥사랑주택",
+      "manager": "윤태성 주임",
+      "phone": "044-850-1392",
+      "email": "—"
+    },
+    {
+      "code": "1334",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 캠핑장",
+      "manager": "양영호 대리",
+      "phone": "044-850-1385",
+      "email": "—"
+    },
+    {
+      "code": "1336",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 주차장",
+      "manager": "임성균 주임",
+      "phone": "044-850-1299",
+      "email": "—"
+    },
+    {
+      "code": "1337",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 보람수영장",
+      "manager": "차명진 주임",
+      "phone": "044-850-1274",
+      "email": "—"
+    },
+    {
+      "code": "1338",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 생활자원회수센터",
+      "manager": "김봉수 대리",
+      "phone": "044-850-1311",
+      "email": "—"
+    },
+    {
+      "code": "1339",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 부강폐수처리시설",
+      "manager": "강길남 주임",
+      "phone": "044-850-1306",
+      "email": "—"
+    },
+    {
+      "code": "1340",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 모니터링",
+      "manager": "이용훈 과장",
+      "phone": "010-8305-1526",
+      "email": "—"
+    },
+    {
+      "code": "1357",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 전의공공폐수처리시설",
+      "manager": "이용훈 과장",
+      "phone": "010-8305-1526",
+      "email": "—"
+    },
+    {
+      "code": "1360",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "㈜뷰웍스",
+      "manager": "장경우 과장",
+      "phone": "070-4466-3275",
+      "email": "jjang7673@vieworks.com"
+    },
+    {
+      "code": "1362",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "한국철도기술연구원",
+      "manager": "김치성 소장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1363",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "속초시시설관리공단 공영주차장",
+      "manager": "신달용 주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1364",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "속초시시설관리공단 소각시설",
+      "manager": "신달용 주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1369",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 조치원공공하수처리시설",
+      "manager": "이용훈 과장",
+      "phone": "010-8305-1526",
+      "email": "—"
+    },
+    {
+      "code": "1370",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 전의공공하수처리시설",
+      "manager": "이용훈 과장",
+      "phone": "010-8305-1526",
+      "email": "—"
+    },
+    {
+      "code": "1374",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "그린피플",
+      "manager": "김교형 과장",
+      "phone": "010-4020-5658",
+      "email": "rokmc20211@naver.com"
+    },
+    {
+      "code": "1378",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "광명도시공사 본부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1379",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 교통사업부",
+      "manager": "정태민 매니저",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1383",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "국립중앙의료원",
+      "manager": "김수미 연구원",
+      "phone": "010-8606-3621",
+      "email": "soom2@nmc.or.kr"
+    },
+    {
+      "code": "1384",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "애경화학㈜",
+      "manager": "김홍철 사원",
+      "phone": "010-2898-9611",
+      "email": "khc@aekyung.kr"
+    },
+    {
+      "code": "1386",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "예술의전당",
+      "manager": "심성민 감독",
+      "phone": "010-4509-2300",
+      "email": "ssm@sac.or.kr"
+    },
+    {
+      "code": "1398",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "(재)경기문화재단 실학박물관",
+      "manager": "최원형 차장",
+      "phone": "010-6279-6009",
+      "email": "—"
+    },
+    {
+      "code": "1399",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "(재)경기문화재단 경기도미술관",
+      "manager": "배지현 대리",
+      "phone": "010-3699-5763",
+      "email": "—"
+    },
+    {
+      "code": "1401",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "(재)경기문화재단 경기북부어린이박물관",
+      "manager": "차영근 대리",
+      "phone": "010-5412-4419",
+      "email": "—"
+    },
+    {
+      "code": "1402",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "(재)경기문화재단 경기도어린이박물관",
+      "manager": "김충선 대리",
+      "phone": "010-3267-9631",
+      "email": "—"
+    },
+    {
+      "code": "1403",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "(재)경기문화재단 전곡선사박물관",
+      "manager": "강병현 대리",
+      "phone": "010-4236-3333",
+      "email": "—"
+    },
+    {
+      "code": "1404",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "(재)경기문화재단 백남준아트센터",
+      "manager": "장철수 주임",
+      "phone": "010-9094-4914",
+      "email": "—"
+    },
+    {
+      "code": "1406",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "부평구시설관리공단 국민체육센터",
+      "manager": "김경희 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1421",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시시설관리공단 장애인형 국민체육센터",
+      "manager": "이용훈 과장",
+      "phone": "010-8305-1526",
+      "email": "—"
+    },
+    {
+      "code": "1422",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 서대문 문화체육회관",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1423",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 궁동체육관",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1424",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 북아현 문화체육센터",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1425",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 이진아기념도서관",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1426",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 서대문형무소 역사관",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1427",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 남가좌새롬어린이 도서관",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1428",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 인조잔디구장",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1429",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 홍제 배드민턴장",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1430",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 건물식주차장",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1431",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 견인차량보관소",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1432",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 천연동임대주택",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1433",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 창업지원센터",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1435",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 주경기장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1436",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 체육관 및 빙상장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1437",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 실내수영장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1438",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 주차사업부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1439",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 인라인장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1440",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 자유공원축구장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1441",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 호계체육관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1442",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 호계복합청사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1443",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 박달복합청사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1444",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 새물공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1445",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 서조체육시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1446",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 석수체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1447",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 비산체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1448",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 석수공영차고지",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1449",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 견인보관소",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1450",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 교통지원부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1451",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 가로등 및 보안등",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1452",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 병목안캠핑장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1453",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 중앙지하도상가",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1456",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "한국식품연구원(완주)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1457",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 홍은도담도서관",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1458",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구도시관리공단 홍제동임대주택",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1463",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "참프레",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1466",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "서대문구시설관리공단 서대문여성이룸센터",
+      "manager": "최윤호",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1471",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "(주)KD파인켐 B",
+      "manager": "방영호 부장",
+      "phone": "010-3156-1444",
+      "email": "—"
+    },
+    {
+      "code": "1472",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "(주)KD파인켐 A",
+      "manager": "방영호 부장",
+      "phone": "010-3156-1444",
+      "email": "—"
+    },
+    {
+      "code": "1473",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 지하 차.보도",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1478",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "한국철도기술연구원 오송분원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1482",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 구민체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1483",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 정보화도서관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1484",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 다사랑행복센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1485",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 이문체육문화센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1486",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 동대문구체육관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1487",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 답십리도서관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1489",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 전략기획팀",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1490",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 경영지원팀",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1491",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 연천종합운동장",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1492",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 연천수레울아트홀",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1493",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 아트홀체육관",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1494",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 청산골프연습장",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1495",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 자연발생유원지",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1496",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 한탄강관광지",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1497",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 고랑포구역사공원",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1498",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 연천세계캠핑존",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1499",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 어린이교통랜드",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1500",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 장례식장",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1501",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 전곡전통시장 공영주차장",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1502",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 이동지원센터",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1503",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 연천공영버스터미널",
+      "manager": "김상태 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1512",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "서울의료원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1528",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안성시시설관리공단 생활자원회수센터",
+      "manager": "강인규 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1529",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안성시시설관리공단 종합운동장",
+      "manager": "윤두원 주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1531",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "IMI",
+      "manager": "우성훈 과장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1534",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 양평종합운동장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1535",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 양서에코힐링센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1536",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 용문국민체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1537",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 백운봉자연휴양림(구 용문산휴양림)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1538",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 양평처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1539",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 강하처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1540",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 양서처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1541",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 서종처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1542",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 창대처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1543",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 위생분뇨처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1544",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 가축분뇨처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1545",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 용문처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1546",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 용문산처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1547",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 단월처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1548",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 곡수처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1549",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 지평처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1550",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 하자포처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1551",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 양동처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1553",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 창업지원센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1554",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 청풍유스호스텔",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1555",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "동대문구시설관리공단 용두문화복지센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1576",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "토탈리빙",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1579",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시설공단 조치원청사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1580",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연수구시설안전관리공단 시설관리팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1583",
+      "server": "NCP",
+      "category": "CMMS",
+      "name": "수도권매립지관리공사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1584",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "IBS인더스트리(동국제약사옥)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1585",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시설공단 전통시장주차타워",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1591",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "일진하이솔루스",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1592",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "경산제지㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1594",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 ABC학습타운",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1596",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 갯골생태공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1597",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 그린환경부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1599",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 목감다니체육관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1600",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 배곧한울공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1602",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 시흥시체육관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1603",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 오이도박물관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1606",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 월곶에코피아",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1607",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 장곡복합센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1608",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 전용배드민턴장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1609",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 전용탁구장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1614",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "계양구시설관리공단 보건소",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1615",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시설공단 조치원 수영장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1617",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 국민체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1618",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 능곡어울림센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1619",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 어울림국민체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1620",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 정왕평생학습관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1626",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "카이스㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1627",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국에이버리데니슨(유)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1629",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "거제시 데크시설(관광과, 해양향만과)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1630",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "거제시 데크시설(산림녹지과)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1631",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "거제시 데크시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1638",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포 고촌도담수영장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1640",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "비티엠써비스㈜ 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1641",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 건강놀이터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1642",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 국수처리장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1643",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 중계펌프유지관리반",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1644",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 실험실",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1645",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대원알텍(대유글로벌)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1646",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "코스모신소재(주) 충주공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1648",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "태아산업 김천공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1649",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "사천시시설관리공단 사천하수",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1650",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "사천시시설관리공단 용현하수",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1651",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "사천시시설관리공단 서포하수",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1652",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "사천시시설관리공단 곤양하수",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1653",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "사천시시설관리공단 삼천포하수",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1654",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "사천시시설관리공단 슬러지(건조)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1655",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "사천시시설관리공단 폐기물",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1656",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "금천구시설관리공단 공공시설팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1657",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "알이비파트너스 본사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1658",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "비티엠써비스 위워크코리아(신사제이빌딩, 선릉889)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1661",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연수구시설안전관리공단 주차환경팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1662",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "알이비파트너스 기숙사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1664",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "원동(상주건물)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1665",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "원동(순회)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1668",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "조인 세양㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1672",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "인천중구시설관리공단 공원녹지팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1673",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대동금속",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1675",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대흥아이비엔㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1676",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "피에스테크놀로지 1,2공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1684",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "평창군시설관리공단",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1685",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 종량제창고",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1686",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 현수막게시대",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1687",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 장흥관광지(미술관옆캠핑장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1688",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 공중화장실",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1689",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 공원 내 수경시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1690",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 마장호수편의시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1691",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 교통약자지원센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1692",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 주차관제센터(공영주차장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1693",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 광적공영주차장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1694",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 버스승강장청소",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1695",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 서부권스포츠센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1696",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 에코스포츠센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1697",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 인공암벽장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1698",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 신천생활체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1699",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 백석생활체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1700",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 광적생활체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1701",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 장흥체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1702",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 체육복지센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1703",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주체육복지센터 부설주차장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1704",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 옥정호수스포츠센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1705",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 감동VR체험관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1706",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 옥정생활체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1707",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 옥정배수지체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1708",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 덕정배드민턴돔구장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1709",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 덕정탁구전용구장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1710",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 고읍축구장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1711",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 삼숭생활체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1712",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양주시시설관리공단 실내체육관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1713",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "KD파인켐 3",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1715",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "윌앤비전 본부회관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1716",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "윌앤비전 충주연수원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1717",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "윌앤비전 제주회관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1718",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "윌앤비전 창원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1719",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "윌앤비전 안양",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1721",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "계양구시설관리공단 청소년문화의집",
+      "manager": "원지호",
+      "phone": "032-262-7734",
+      "email": "—"
+    },
+    {
+      "code": "1723",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "합동전자_인도네시아 법인",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1727",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한성기업 당진공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1728",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "중소기업유통센터(한유원파트너스_행복한백화점)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1731",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "현대C&R(인천 본사)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1732",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "현대C&R(군산, 안산)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1734",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "이데미쯔전자재료한국",
+      "manager": "박정우 과장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1735",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "토리컴",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1736",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 은계1어울림센터",
+      "manager": "원우식 매니저",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1737",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 대야평생학습관",
+      "manager": "원우식 매니저",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1738",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천 재인폭포 오토캠핑장",
+      "manager": "이성환 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1739",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "영도산업",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1742",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "현대첨단소재㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1744",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "㈜한국메탈아산공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1745",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "아난티_앳 강남",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1746",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "아난티_남해",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1747",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "아난티_클럽 제주",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1748",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "아난티_중앙 골프클럽",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1750",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "아난티 코드",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1752",
+      "server": "NCP",
+      "category": "CMMS",
+      "name": "세종시설공단 수질정화시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1753",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "가농바이오",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1757",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "(주)푸드웰",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1758",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "아난티 앳 부산 코브",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1759",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "아난티 부산 빌라쥬드",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1764",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "비티엠써비스 위워크코리아(19개지점)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1765",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "불스원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1772",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "KBIZ 여의도회관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1773",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "KBIZ DMC 타워",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1774",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "KBIZ 중소기업인력개발원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1775",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "KBIZ 부산회관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1776",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "KBIZ 대전회관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1779",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시설공단 공원관리",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1780",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "르노코리아",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1781",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "케이앤알코리아(소코코리아)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1782",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "강남화성",
+      "manager": "20user 로 선납입",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1783",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대한솔루션 포승공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1784",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 승화원",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1785",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 근로자종합복지관",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1786",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 실내체육관",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1787",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 실내인라인롤러장(게이트볼장)",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1788",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 자전거경륜장",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1789",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 한바탕국민체육센터",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1790",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 월드컵골프장(클럽하우스)",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1792",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 도내기샘 국민체육센터",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1793",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시설공단 혁신도시 라온체육센터",
+      "manager": "전지남주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1794",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 양곡문화체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1796",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 교통사업2부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1797",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "덕산네오룩스",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1799",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "에스비디씨파트너스 주식회사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1802",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "유비쿼스",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1803",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "크리버코리아",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1804",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "늘푸른안전",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1805",
+      "server": "NCP",
+      "category": "CMMS",
+      "name": "하남시친환경사업소",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1806",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "계양구시설관리공단 도시재생어울림센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1807",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대한솔루션 당진공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1808",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "광명도시공사 체육사업2팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1809",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대한솔루션 광주공장",
+      "manager": "구광철 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1810",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대한솔루션 경산공장",
+      "manager": "김은호 대리",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1811",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대한솔루션 인천공장",
+      "manager": "김진세 대리",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1814",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "㈜케이비지 천안공장(KBG)",
+      "manager": "신승대 대리",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1815",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "㈜동우개발 1_철산래미안자이",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1816",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "㈜동우개발 2_덕계역 금강펜테리움 센트럴파크",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1817",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "㈜동우개발 3_한강동일스위트 The Park View 2단지",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1818",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "㈜동우개발 4",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1819",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "㈜동우개발 5",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1820",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "㈜동우개발 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1822",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "(주)케이에스메이트(아주대용역)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1823",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "(주)태광에스티엠_구로 JNK디지털타워",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1824",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "군포도시공사 시민체육시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1825",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 초막골캠핑장",
+      "manager": "데이터팀 나스에서 확인가능",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1826",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 공영차고지",
+      "manager": "4/2 군포 전체 사용자 메일 발송",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1827",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 부곡체육시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1828",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 교통복지지원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1829",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 새활용타운",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1830",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 소규모체육시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1831",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 주차관리",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1832",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 환경관리소",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1833",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 송정체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1834",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "군포도시공사 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1836",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "하나에이엠티 주식회사",
+      "manager": "유기문 대리",
+      "phone": "010-3641-2338",
+      "email": "7월까지 15user"
+    },
+    {
+      "code": "1837",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에스지에스코리아",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1838",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국몰렉스 도금팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1841",
+      "server": "Azure",
+      "category": "모니터링",
+      "name": "대한솔루션 모니터링",
+      "manager": "김정봉차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1842",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "(주)태화정공",
+      "manager": "데이터 지연",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1844",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국알박",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1845",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시설공단 연서면공공하수처리시설",
+      "manager": "김재훈 주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1846",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "유니온칼라텍",
+      "manager": "양의식 공장장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1847",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "송월 제직팀",
+      "manager": "최성채 과장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1848",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "송월 Vina JSC.",
+      "manager": "조용민 공장장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1849",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국가쯔라",
+      "manager": "정소영 대리",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1850",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "현대바이오랜드 안산공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1853",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "다모테크",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1855",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "㈜천보비엘에스",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1856",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 교통지원팀",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1857",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 천보산 자연휴양림",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1858",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 산정호수",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1859",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 왕방산 암벽공원",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1860",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 하늘아래 치유의 숲",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1861",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 서바이벌 게임장",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1862",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 포천종합운동장",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1863",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 마홀수영장",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1864",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 포천축구공원",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1865",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 포천야구장",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1866",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 소흘생활체육공원",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1867",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 소흘국민체육센터",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1868",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 주차장",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1871",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 여성회관",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1872",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 내촌자연장지",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1873",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 교통약자이동지원센터",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1874",
+      "server": "NCP",
+      "category": "모니터링",
+      "name": "포천도시공사 모니터링",
+      "manager": "오달현",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1875",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 본부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1876",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국몰렉스 스탬핑팀",
+      "manager": "권오영팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1877",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국몰렉스 사출팀",
+      "manager": "권오영팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1878",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국몰렉스 조립팀",
+      "manager": "권오영팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1879",
+      "server": "Azure",
+      "category": "모니터링",
+      "name": "한국몰렉스 모니터링",
+      "manager": "권오영팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1881",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "㈜벙커엠(메디톡스)",
+      "manager": "김왕종 부장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1882",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "화인트로",
+      "manager": "한점호 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1884",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 은계2어울림센터",
+      "manager": "진세호 매니저",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1885",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에이치앤이루자",
+      "manager": "유홍선 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1886",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "썬프로로시스템코리아",
+      "manager": "최선준 차장",
+      "phone": "010-9728-3020",
+      "email": "choisj@sunfluoro.co.kr"
+    },
+    {
+      "code": "1887",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "태진자산관리(윈덤그랜드호텔부산)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1889",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "디플러스프라퍼티",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1890",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "성보피앤티",
+      "manager": "김민현 대리",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1891",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "퓨렉스",
+      "manager": "유창근 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1892",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "맥서브(세종공동캠퍼스)",
+      "manager": "김상진 상무이사",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1895",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김천시시설관리공단",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1897",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "㈜파나시아",
+      "manager": "이상헌 과장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1898",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "포스코 타이녹스",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1899",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "우체국시설관리단 마포",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1900",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "우체국시설관리단 가락본동",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1901",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "우체국시설관리단 북인천",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1902",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "삼화왕관㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1903",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "제이케이티",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1907",
+      "server": "NCP",
+      "category": "모니터링",
+      "name": "우체국시설관리단 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1908",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "영보화학",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1910",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "위드인천에너지㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1911",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "(주)엘포트아이파크관리",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1915",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "㈜성창오토텍",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1917",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "현대C&R군산",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1918",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "제이스타(구구스영남대부)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1921",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "금오이엠에스㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1922",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국삼공㈜",
+      "manager": "이승훈",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1924",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "선한목자교회",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1925",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "DDP(서울디자인재단)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1926",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "제이더블유생명과학",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1929",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "포스코 VST",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1930",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "전주시시설관리공단 에코체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1931",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "(주)포스코와이드(엑셈)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1932",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "엠씨씨",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1933",
+      "server": "Azure",
+      "category": "영문",
+      "name": "포스코 TCS",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1934",
+      "server": "Azure",
+      "category": "영문",
+      "name": "포스코 멕시코",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1935",
+      "server": "Azure",
+      "category": "영문",
+      "name": "포스코 마하라슈트라",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1936",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "맥서브(LG화학 CS캠퍼스)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1937",
+      "server": "Azure",
+      "category": "영문",
+      "name": "포스코 말레이시아",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1938",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "코리아피티지",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1939",
+      "server": "Azure",
+      "category": "영문",
+      "name": "포스코 VINA",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1940",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "맥서브(LG화학 리더십센터)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1941",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "마린글로리",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1943",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "계양구시설관리공단 효성수영장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1944",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "(재)경기문화재단(수원 본부)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1945",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "케이엠티엘(KMTL)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1947",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "맥서브(경기신용보증재단)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1948",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "아스타아이비에스(부산 신항)",
+      "manager": "송봉근 건축주임",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1951",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국인삼공사(부여공장)",
+      "manager": "윤원빈",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1952",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_종로구보훈회관",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1953",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_인사동문화지구",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1954",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_공유재산",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1955",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_올림픽기념국민생활관",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1956",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_와룡스포츠센터",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1957",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_종로구민회관",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1958",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_동부여성문화센터",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1959",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_종로문화체육센터",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1960",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_삼청테니스장",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1961",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_주차장",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1962",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_북악팔각정",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1963",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단_인왕산초소책방",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1971",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "풍국주정공업",
+      "manager": "김헌석 차장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1972",
+      "server": "NCP",
+      "category": "모니터링",
+      "name": "종로구시설관리공단 모니터링",
+      "manager": "안교천 팀장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1973",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "백상코퍼레이션(이대서울병원)",
+      "manager": "임지백 과장",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1975",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "제이더블유중외제약(당진공장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1977",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "㈜디엔에프",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1978",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "현대그린푸드(성남공장) 스마트푸드센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1979",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안성시시설관리공단 안성수영국민체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1980",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "제이더블유신약",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1981",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "비에이텍㈜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1982",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "제이더블유중외제약(시화공장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1983",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주시시설관리공단(서충주국민체육센터)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1984",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주시시설관리공단(유기농체험교육센터)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1985",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "충주시시설관리공단(목계솔밭캠핑장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1986",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "엠팩코리아(1공장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1987",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시설공단 생활체육팀",
+      "manager": "044-850-4280 / 최희욱",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1988",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "익성",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1989",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안성시시설관리공단 공영주차팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1990",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "동우일렉트릭",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1991",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "오피모빌리티",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1992",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "윌앤비전 유한대학",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1993",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 본부청사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1994",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 용정폐수처리시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1995",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 공영버스터미널",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1996",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 두런두런",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1997",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 반다비체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1998",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "지이케미칼",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "1999",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 경기타운부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2000",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 제부도관리부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2001",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 마리나관리부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2002",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 공공시설부 오토캠핑장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2003",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 교통약자지원부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2004",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 공원관리1부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2005",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 공원관리2부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2006",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 체육시설1부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2007",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 체육시설2부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2008",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 봉담체육센터부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2009",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 그린환경센터부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2010",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 우정체육센터부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2011",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 동탄체육센터부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2012",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 반월체육센터부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2013",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 함백산추모공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2014",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 비봉 추모공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2015",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 주차관리1부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2016",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 주차관리2부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2017",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 주차관리3부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2018",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 교통관리부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2019",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 기술지원부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2020",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 운행관리2부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2021",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 운행관리3부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2022",
+      "server": "NCP",
+      "category": "모니터링",
+      "name": "화성도시공사 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2025",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국몰렉스 제조물류팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2026",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에이에프티",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2027",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "백상코퍼레이션 페럼타워",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2028",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "칸토덴카화인프로덕츠한국",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2029",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 본청",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2030",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 종합체육관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2031",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 종합운동장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2032",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 치악체육관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2033",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 국민체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2034",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 근로자종합복지관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2035",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 엘리트체육관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2036",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 체육공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2037",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 젊음의광장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2038",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 교통사업부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2039",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 추모공원",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2040",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 간현관광지",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2041",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2042",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 도시환경팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2043",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "엑스코",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2044",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "김포도시관리공사 보훈회관",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2045",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "한미사이언스",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2046",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "애경바이오팜",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2047",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "이노스페이스(CMMS)",
+      "manager": "innospcMET02 / 검!@은6044",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2048",
+      "server": "Azure",
+      "category": "자산관리",
+      "name": "이노스페이스(자산관리 - AMS)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2049",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "화성도시공사 시설운영부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2050",
+      "server": "NCP",
+      "category": "FMS",
+      "name": "성한(농림축산검역본부)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2052",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "신세계사이먼",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2053",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "엠팩코리아(2공장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2054",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "오영",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2055",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "베페사징크코리아",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2056",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "LS EVP(엘에스이브이피)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2057",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "엠테스(설비관리)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2058",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에이피시스템",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2062",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "삼익",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2063",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 목감2어울림센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2064",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "엠테스(도면관리)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2065",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "IBS인더스트리 골프존카운티",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2066",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단 공중화장실",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2067",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "대광에코텍",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2068",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "경기그린에너지",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2069",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "인천중구시설관리공단 체육사업2팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2070",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연천군시설관리공단 태풍목욕탕",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2071",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 용정테니스장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2072",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "계양구시설관리공단 의회청사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2074",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에어릭스 포항본부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2075",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에어릭스 광양본부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2076",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "영천시시설관리공단 보현산댐짚와이어",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2077",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "부평구시설관리공단 부평 남부체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2078",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "부평구시설관리공단 북부 교육문화센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2079",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "경주시시설관리공단 체육시설파트",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2080",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "경주시시설관리공단 북경주체육문화센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2081",
+      "server": "NCP",
+      "category": "모니터링",
+      "name": "경주시시설관리공단 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2082",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "오토닉스(부산공장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2083",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "연수구시설관리공단 옹암체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2084",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "윌앤비전(당산SKv1)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2085",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "케이씨파츠텍",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2086",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "㈜케이비지 괴산공장(KBG)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2087",
+      "server": "Azure",
+      "category": "모니터링",
+      "name": "㈜케이비지 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2088",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "양평공사 양평군체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2089",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "시흥도시공사 장곡생활체육시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2090",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "서울대학교 반도체공동연구소",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2091",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "코닉스",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2092",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에스엘미러텍",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2093",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 아리움체육센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2094",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 백운계곡",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2095",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "포천도시공사 장자폐수처리시설",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2096",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "삼구에프에스(한국델몬트후레쉬_음성공장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2097",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "지씨셀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2098",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "세웅수산",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2099",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "윌앤비전 서울숲포휴",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2100",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한국카본 사포공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2101",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 주거복지부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2102",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 안전감사팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2103",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 경영지원부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2104",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "안양도시공사 전략기획부",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2105",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "송월 준비팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2106",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "송월 염색팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2107",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "송월 봉제팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2108",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "케이엠티엘 티비엠(KMTL TBM)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2109",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "젬백스앤카엘",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2110",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "모트렉스",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2111",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한양디지텍",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2112",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "린텍어드벤스테크놀로지코리아",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2113",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "한일시멘트 단양공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2114",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "세종시설공단 종합복지관시설팀",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2115",
+      "server": "Azure",
+      "category": "모니터링",
+      "name": "송월 모니터링",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2116",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에이텍솔루션",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2117",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "세동산업",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2118",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "제일산업 안성공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2119",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "인천연료전지 주식회사",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2120",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "경주시시설관리공단 토함산자연휴양림",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2121",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "원주시시설관리공단 간현관광지 케이블카",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2123",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "백상코퍼레이션(교원투어빌딩)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2124",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "종로구시설관리공단 옥인스포츠센터",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2125",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "범우화학공업(주) 양산2공장",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2126",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "진주시시설관리공단",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2127",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "아스타아이비에스(클리오)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2128",
+      "server": "Azure",
+      "category": "FMS",
+      "name": "백상코퍼레이션(한국인삼공사 원주공장)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2129",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "에이치엘이엔지(HL eng)",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2130",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "레이크머티리얼즈",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2131",
+      "server": "Azure",
+      "category": "CMMS",
+      "name": "메카로",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    },
+    {
+      "code": "2132",
+      "server": "NCP",
+      "category": "시설관리공단",
+      "name": "완도해양치유관리공단",
+      "manager": "—",
+      "phone": "—",
+      "email": "—"
+    }
+  ],
+  "updatedAt": "2026-09-11T01:57:21.049Z"
+}
