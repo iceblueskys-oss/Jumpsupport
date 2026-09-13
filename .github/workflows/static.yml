@@ -33,10 +33,21 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Remove data files from the published site
+        # data/jump-support.json holds the live customer ledger (names, phone
+        # numbers, emails). GitHub Pages serves every file in this repo as a
+        # public static asset with no authentication, regardless of what the
+        # app's own GitHub-token check does client-side, so it must never be
+        # part of the published site. The app reads/writes this file through
+        # the authenticated GitHub Contents API instead, which works directly
+        # against the repository and is unaffected by removing it here — this
+        # only removes it from the CI runner's copy that gets published, not
+        # from the actual repository.
+        run: rm -rf data
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
+          # Upload entire repository (minus the data/ removed above)
           path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
